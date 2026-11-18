@@ -1,7 +1,4 @@
-# microsoft-defender-endpoint-hardening
-Windows endpoint security assessment and Microsoft Defender hardening project
 # Microsoft Defender Endpoint Security Hardening
-
 ## Project Overview
 Independent cybersecurity lab assessing and strengthening Windows endpoint security using Microsoft Defender, PowerShell, Windows Firewall, and BitLocker.
 
